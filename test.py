@@ -1,2 +1,2 @@
-print("hihihihihi")
+print("HIHHIHIHIH")
 print("PR Sample")
